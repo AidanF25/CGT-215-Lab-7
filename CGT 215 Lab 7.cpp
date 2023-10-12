@@ -58,7 +58,7 @@ int main()
         {
             cout << "bang " << bangCount << endl;
             bangCount++;
-            if (bangCount == 3)
+            if (bangCount == 4)
             {
                 exit(0);
             }
